@@ -1,14 +1,5 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/snovamo86861/KAAS/master)
 
-# Team 5 — KAAS
-
-### Team Members
-
-* Ash 
-* Aresh 
-* Sandra 
-* Keron 
-
 ### Motivation 
 1. Core message: Trump’s impact on the financial markets and political environment in America
 
