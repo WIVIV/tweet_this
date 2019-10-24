@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/snovamo86861/KAAS/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/WIVIV/tweet_this/master)
 
 ### Motivation 
 1. Core message: Trump’s impact on the financial markets and political environment in America
