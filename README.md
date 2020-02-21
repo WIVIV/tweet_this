@@ -54,17 +54,3 @@ This Tweet contributed to a percentage Change in SPY on 2018/12/04 of +1.0007% .
 * In addition we utilized another python library called Twitterscraper which we ran via the command line. Twitterscraper allows you to scrape Tweets using a Python to retrieve content and Beautifullsoup to parse the retrieved content into a JSON object or CSV. We used this to pull tweets for the keyword WeWork as well as from Elon Musk’s Twitter profile. 
 * To extract market data we used IEX Finance and for the WeWork Bond Price data we utilized CapIQ.
 
-
-### Data Cleanup
-We have put the rough working into 4 notebooks, 1 for each of the analysis types we did including the WordCloud:<br>
-1. [Wordcloud](wordcloudv1.2.ipynb)
-2. [Trump Tweet Analysis](Trump_Analysis_v1.0.ipynb)
-3. [Tweet and Price Movement Analysis](test_code_v2.5.ipynb)
-4. [Scatter Text](scatter_textv1.ipynb) - Note this can take up to 5 miuntes to open
-
-### [There is also a notebook (PRES_V1.0.ipynb) with cleaned up code which we used to do the slide presenatation using the RISE Python library for Jupyter Notebook.](PRES_V1.0.ipynb)
-
-## Implications 
-
-Trump has forever changed political discourse. His language is unique, introducing a new phrases into the lexicon.  Futhermore his exorating style beings a level of vitriol not previously witnessesed. Trump's use of social media is unprescentated for any world leader, let alone for the POTUS and had a signficaint impact on financial markets as well as the political landscape accorss the world. 
-
